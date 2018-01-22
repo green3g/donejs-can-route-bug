@@ -1,0 +1,3 @@
+<p>{{message}}</p>
+
+<p><button on:click="increment()">increment</button> Counter: {{count}}</p>
